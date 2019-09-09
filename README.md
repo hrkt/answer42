@@ -33,6 +33,4 @@ MIT
 
 ## CI
 [![Actions Status](https://github.com/hrkt/answer42/workflows/workflows/nodejs.yml/badge.svg)](https://github.com/hrkt/answer42/actions)
-
-
-![](https://github.com/hrkt/answer42/workflows/.github/workflows/main.yml/badge.svg)
+![](https://github.com/hrkt/answer42/workflows/.github/workflows/nodejs.yml/badge.svg)
