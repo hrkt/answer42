@@ -32,4 +32,4 @@ $ npm run test
 MIT
 
 ## CI
-![](https://github.com/hrkt/answer42/workflows/.github/workflows/nodejs.yml/badge.svg)
+![](https://github.com/hrkt/answer42/workflows/Node%20CI/badge.svg)
