@@ -5,6 +5,10 @@ https://www.sciencedaily.com/releases/2019/09/190906134011.htm
 
 ## JavaScript
 
+### Requirements
+
+Node v10 or later
+
 ### prepare
 
 ```
