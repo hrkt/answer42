@@ -32,5 +32,4 @@ $ npm run test
 MIT
 
 ## CI
-[![Actions Status](https://github.com/{hrkt}/{answer42}/workflows/{Node%20CI}/badge.svg)](https://github.com/{hrkt}/{answer42}/actions)
-
+[![Actions Status](https://github.com/{hrkt}/{answer42}/workflows/workflows/nodejs.yml/badge.svg)](https://github.com/{hrkt}/{answer42}/actions)
